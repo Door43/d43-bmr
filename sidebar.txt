@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmr:home|Door43 (bmr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmr|d43-bmr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmr/archive/master.zip|d43-bmr.zip]]
+
+**Recent Changes**
+{{changes>ns = bmr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmr|Ethnologue data]]
+
